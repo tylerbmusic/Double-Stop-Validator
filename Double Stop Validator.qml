@@ -8,7 +8,7 @@ MuseScore {
     width: 500
     height: 720
     menuPath: "Plugins.Double Stop Validator"
-    version: "1.0"
+    version: "1.0-pre1"
     description: "Tells you if your notated double stops are playable (works for violin/viola/cello)."
     title: "Double Stop Validator"
     requiresScore: true
@@ -634,4 +634,5 @@ MuseScore {
         text: ""
         title: "ERROR"
     }
+
 }
